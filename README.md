@@ -14,3 +14,13 @@ Each folder represents one day or one project.
 
 \- Wrote first CLI program
 
+
+
+\## Day 2
+
+\- Learned variables and numeric types
+
+\- Built a CLI calculator
+
+\- Added error handling
+
